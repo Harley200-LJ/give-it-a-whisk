@@ -1,0 +1,11 @@
+.banner {
+    background-color: bisque;
+    text-align: center;
+    font-size: medium;
+    font-family: versailles;
+}
+
+#logo {
+    height: 400px;
+    width: 400px;
+}
